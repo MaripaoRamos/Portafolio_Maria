@@ -1,2 +1,2 @@
 # Portafolio_Maria
-Primer Portafolio de Maria
+Primer Portafolio realizado con Figma en el segundo curso de Leonidas Esteban
